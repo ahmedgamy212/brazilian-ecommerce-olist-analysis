@@ -4,7 +4,8 @@ An end-to-end analysis of the Brazilian E-Commerce Public Dataset by Olist using
 
 ## Contents
 
-- `Python/`: exploratory analysis notebook and source CSV datasets
+- `Data/`: original Olist dataset CSV files
+- `Python/`: analysis notebook, prepared CSV files, and profiling reports
 - `SQL/`: SQL queries used for analysis
 - `Power BI/`: interactive Power BI report
 
