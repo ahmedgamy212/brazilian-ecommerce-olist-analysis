@@ -1,1 +1,2 @@
 recruit-restaurant-visitor-forecasting/Data/hpg_reserve*.csv filter=lfs diff=lfs merge=lfs -text
+power[[:space:]]bi/*.pbix filter=lfs diff=lfs merge=lfs -text

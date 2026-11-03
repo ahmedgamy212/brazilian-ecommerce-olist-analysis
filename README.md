@@ -7,7 +7,7 @@ An end-to-end analysis of the Brazilian E-Commerce Public Dataset by Olist using
 - `Data/`: original Olist dataset CSV files
 - `Python/`: analysis notebook, prepared CSV files, and profiling reports
 - `SQL/`: SQL queries used for analysis
-- `Power BI/`: interactive Power BI report
+- `power bi/`: Power BI report file (`Olist.pbix`, stored with Git LFS)
 - `recruit-restaurant-visitor-forecasting/`: separate restaurant visitor forecasting project with its notebook, datasets, and trained models
 
 ## Tools
