@@ -1,0 +1,4 @@
+Model,RMSE,MAE,R2,Best_Params
+CatBoost,11.723714082845385,6.819070380007062,0.5709408414739213,"{'learning_rate': 0.03, 'l2_leaf_reg': 5, 'iterations': 1000, 'depth': 8}"
+LightGBM,11.83722716068153,6.85534491747542,0.5625920180544727,"{'num_leaves': 31, 'n_estimators': 500, 'min_child_samples': 50, 'max_depth': 7, 'learning_rate': 0.03}"
+XGBoost,11.895576795303183,6.902184940764076,0.558269130562808,"{'subsample': 0.8, 'n_estimators': 500, 'min_child_weight': 1, 'max_depth': 5, 'learning_rate': 0.03, 'colsample_bytree': 0.8}"

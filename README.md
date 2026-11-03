@@ -8,6 +8,7 @@ An end-to-end analysis of the Brazilian E-Commerce Public Dataset by Olist using
 - `Python/`: analysis notebook, prepared CSV files, and profiling reports
 - `SQL/`: SQL queries used for analysis
 - `Power BI/`: interactive Power BI report
+- `recruit-restaurant-visitor-forecasting/`: separate restaurant visitor forecasting project with its notebook, datasets, and trained models
 
 ## Tools
 
@@ -22,3 +23,7 @@ The project uses the Brazilian E-Commerce Public Dataset by Olist, available thr
 ## Repository
 
 This repository brings together data preparation, analysis queries, and dashboard reporting for the Olist e-commerce dataset.
+
+## Restaurant Visitor Forecasting
+
+The `recruit-restaurant-visitor-forecasting/` directory contains a separate analysis project for the Recruit Restaurant Visitor Forecasting competition. It includes the Jupyter notebook, data files, profiling reports, and trained model artifacts. The large `hpg_reserve` CSV files are stored using Git LFS.

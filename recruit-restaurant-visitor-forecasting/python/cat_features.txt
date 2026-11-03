@@ -1,0 +1,3 @@
+air_genre_name
+air_area_name
+day_of_week
